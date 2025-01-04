@@ -29,4 +29,4 @@ To run the game, simply open the `index.html` file in a web browser.
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.  
 
 ## License 📜  
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Omansh-Sharma1/Simon-Game/blob/main/LICENSE.md) file for details.  
